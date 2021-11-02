@@ -22,4 +22,4 @@ You may find these NFTs useful for your your testing.
 
 Enjoy!
 
-(c) BokkyPooBah / Bok Consulting Pty Ltd - Nov 2021. GPL3 Licence. Not affiliated with [https://cryptoadz.io/](https://cryptoadz.io/) or SameToadz. Some images and data copyright their respective owners. DYOR.
+(c) BokkyPooBah / Bok Consulting Pty Ltd - Nov 2021. The smart contract is a mix of MIT & GPL3 Licence. Not affiliated with [https://cryptoadz.io/](https://cryptoadz.io/) or SameToadz. Some images and data copyright their respective owners. DYOR.
