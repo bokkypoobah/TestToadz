@@ -2,7 +2,7 @@
 
 # TestToadz
 
-The SameToadz smart contract at [0x07e5ce0f8f](https://etherscan.io/address/0x07e5ce0f8fa46031a1dcc8cb2530f0a52019830d#code) has been renamed to [TestToadz](contracts/TestToadz.sol), compiled with [OpenZeppelin v4.3.2](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.3.2) and deployed to the following Ethereum testnets:
+The SameToadz smart contract at [0x07e5ce0f8f](https://etherscan.io/address/0x07e5ce0f8fa46031a1dcc8cb2530f0a52019830d#code) has been renamed to [TestToadz](contracts/TestToadz.sol), compiled with [OpenZeppelin v4.3.2](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.3.2) and deployed to 0xd000f000aa1f8accbd5815056ea32a54777b2fc4 on the following Ethereum testnets:
 
 * [Ropsten](https://ropsten.etherscan.io/address/0xd000f000aa1f8accbd5815056ea32a54777b2fc4#writeContract)
 * [Kovan](https://kovan.etherscan.io/address/0xd000f000aa1f8accbd5815056ea32a54777b2fc4#writeContract)
