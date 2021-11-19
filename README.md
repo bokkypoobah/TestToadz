@@ -14,6 +14,8 @@ Mint up to 3 TestToadz a time (with a maximum of 20 per account) by clicking **C
 
 You can view your Rinkeby "TestToadz" and Goerli "TestToads V2" in [https://testnets.opensea.io/account](https://testnets.opensea.io/account).
 
+Also deployed TESTS "Tests for Devolution" to https://rinkeby.etherscan.io/address/0x652dc3aa8e1d18a8cc19aef62cf4f03c4d50b2b5#code .
+
 You may find these NFTs useful for your your testing.
 
 <br />
